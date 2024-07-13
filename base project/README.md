@@ -9,6 +9,8 @@
 ```
 target_link_libraries(targetName
 <PUBLIC|PRIVATE|INTERFACE> item1 [item2 ...]
-<PUBLIC|PRIVATE|INTERFACE> item3 [item4 ...])
+<PUBLIC|PRIVATE|INTERFACE> item3 [item4 ...]
 ...
+)
+
 ```

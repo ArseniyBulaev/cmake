@@ -1,4 +1,8 @@
 {
-    "cmake.sourceDirectory": "E:/DEV/cmake/base project/source",
-    "cmake.buildDirectory": "E:/DEV/cmake/base project/build"
+    "cmake.sourceDirectory": [
+        "E:/DEV/cmake/base project/source",
+        "E:/DEV/cmake/variables/source"
+    ]
+    ,
+    "cmake.buildDirectory": "E:/DEV/cmake/build"
 }
